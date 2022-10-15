@@ -1,0 +1,2 @@
+vless://8691e80b-6aec-452a-815d-bad04752ca1b@fr2.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=fr2.v2vless.xyz&type=ws#sshocean-mfiwoq
+vless://5e28bafc-5362-4dc2-8d0c-75870981be98@de1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&sni=de1.v2vless.xyz&type=ws#sshocean-urydhs
